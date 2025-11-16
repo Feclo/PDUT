@@ -1,0 +1,4 @@
+https://drive.google.com/drive/folders/1ITIcVpjZlKqUfdpeNqd5mbel1ZamBNTa?usp=sharing
+model
+  ——cp-050.ckpt.data-00000-of-00001
+  ——cp-050.ckpt.index
