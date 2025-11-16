@@ -1,0 +1,1 @@
+{"task_name": "HS", "dataset_name": "ICVL512-MAT", "loss": "admm_loss_last", "checkpoint_monitor": "psnr_hyper_metric", "checkpoint_save_mode": "max", "training_batch_size": 1, "step_per_epoch": 1672, "total_epoch": 100, "summary_update_freq": 836, "validation_steps": 10, "dataset_loader_func_name": "load_icvl_full_mat_512"}
